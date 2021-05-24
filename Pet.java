@@ -8,7 +8,6 @@ public class Pet {
             int sum = 0;
             for (int j = 0; j < 4; j ++){
                 sum += sc.nextInt();
-
             }
             if(sum>max){
                 max=sum;
